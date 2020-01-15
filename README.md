@@ -11,10 +11,9 @@ With ears, you need at least 4000$ to buy the high quality a pair hearing aid.
 2. Comfortable to use
 3. Low battery consumption
 
-## To-do
-1. Write end to end architecture diagram
-2. Split the solutions into different repository
-3. Engage industry to produce the device using the open source project
+## Challenges
+1. Programming DSP is not my cup of tea. We need electrical engineer to kickstart the original code that doing audio processing.
+2. Building hardware is not my expertise either. Probably hardware industry could just reuse the available software and make the hearing aid available with affordable price.
 
 ## How to Contribute
 Send pull request (PR) or comment / feedback as issues. 
