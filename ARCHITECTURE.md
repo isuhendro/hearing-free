@@ -22,6 +22,16 @@ https://www.analog.com/en/analog-dialogue/articles/dsp-101-part-3.html#
 ## VisualDSP++
 https://www.analog.com/en/design-center/evaluation-hardware-and-software/software/vdsp-bf-sh-ts.html#software-relatedsoftware
 
+## Why Not Arduino?
+https://forum.arduino.cc/index.php?topic=599297.0
+
+> The AVR microcontrollers used in Arduinos are not suited for audio processing. They were simply not designed with audio in mind: they lack memory, processing power, ADC resolution and speed, and a DAC.
+> Use a microcontroller with more memory, I²S support, DMA, etc. Take a look at ARM microcontrollers like STM32 if you have some experience, or use a Teensy if you want a more beginner-friendly platform. You could probably also use an ESP32.
+> If you're interested in learning low-level DSP, the `CMSIS-DSP` library might be useful.
+> If you don't care about DSP at all, and you just want to get your audio project working, you can use the PJRC Audio library.
+> `freedsp.cc` is also worth a look.
+> Pieter
+
 ## Needed solutions
 1. DIAGNOSIS tool to determine the amplification factor based on frequency range
 2. SIGNAL PROCESSING for voice filtering
