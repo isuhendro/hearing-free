@@ -1,5 +1,5 @@
 # hearing-free
-TOGETHER, let's make high quality hearing-aid affordable to everyone who needs them
+TOGETHER, let's make good quality hearing-aid affordable for everyone who needs them
 
 ## Background
 Both eyes and ears are two of the most important human basic sense.
