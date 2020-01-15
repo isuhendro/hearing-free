@@ -36,3 +36,8 @@ https://forum.arduino.cc/index.php?topic=599297.0
 1. DIAGNOSIS tool to determine the amplification factor based on frequency range
 2. SIGNAL PROCESSING for voice filtering
 3. HEARING MOBILE APP - to control the voice filtering
+
+## How to build a device
+
+https://www.intel.com/content/www/us/en/corporate-responsibility/social-impact-and-educational-initiatives/overview.html
+
