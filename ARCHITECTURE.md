@@ -19,6 +19,9 @@ https://www.analog.com/en/analog-dialogue/articles/dsp-101-part-3.html#
 > c) production ROM generation. 
 > Tryout provides a quick go/no-go determination of the program’s operation; this technique is the implementation method used in this article. In-circuit emulation monitors software debug in the system, where a tool such as an EZ-ICE™ controls processor operation on the target platform. After all debug is complete, a boot ROM of the final code can be generated; it serves as the final production implementation.
 
+## VisualDSP++
+https://www.analog.com/en/design-center/evaluation-hardware-and-software/software/vdsp-bf-sh-ts.html#software-relatedsoftware
+
 ## Needed solutions
 1. DIAGNOSIS tool to determine the amplification factor based on frequency range
 2. SIGNAL PROCESSING for voice filtering
