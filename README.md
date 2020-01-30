@@ -17,7 +17,7 @@ For ears, you will need at least 4000$ to buy the good quality hearing aids.
 ![image](https://user-images.githubusercontent.com/241914/73419217-43fc9b00-4359-11ea-8e3f-9ef50173c584.png)
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/241914/73419217-43fc9b00-4359-11ea-8e3f-9ef50173c584.png">
+  <img src="https://user-images.githubusercontent.com/241914/73419217-43fc9b00-4359-11ea-8e3f-9ef50173c584.png">
 </p>
 
 2. Signal processing audion processing
