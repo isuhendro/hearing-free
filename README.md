@@ -11,6 +11,14 @@ For ears, you will need at least 4000$ to buy the good quality hearing aids.
 2. Comfortable to use
 3. Low battery consumption and must use `low energy` bluetooth connection
 
+## Modules to create
+1. Mobile app for hearing test
+2. Signal processing audion processing
+  - input: frequency based amplified factor + audio input
+  - output: audio output
+3. Mobile app for hearing app
+  - upload audio amplification factor to device through bluetooth
+4. Hearing device  
 
 ## Challenges
 1. Programming DSP is not my cup of tea. We need an electrical engineer to kickstart the original code that does the audio processing.
