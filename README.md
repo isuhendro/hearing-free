@@ -9,7 +9,8 @@ For ears, you will need at least 4000$ to buy the good quality hearing aids.
 ## Definition of a Good Quality Hearing Aid
 1. Able to amplify the volume based on frequency range
 2. Comfortable to use
-3. Low battery consumption
+3. Low battery consumption and must use `low energy` bluetooth connection
+
 
 ## Challenges
 1. Programming DSP is not my cup of tea. We need an electrical engineer to kickstart the original code that does the audio processing.
