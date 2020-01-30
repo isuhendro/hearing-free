@@ -14,10 +14,10 @@ For ears, you will need at least 4000$ to buy the good quality hearing aids.
 ## Modules to create
 1. Mobile app for hearing test
 2. Signal processing audion processing
-  - input: frequency based amplified factor + audio input
-  - output: audio output
+    - input: frequency based amplified factor + audio input
+    - output: audio output
 3. Mobile app for hearing app
-  - upload audio amplification factor to device through bluetooth
+    - upload audio amplification factor to device through bluetooth
 4. Hearing device  
 
 ## Challenges
