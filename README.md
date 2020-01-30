@@ -13,6 +13,8 @@ For ears, you will need at least 4000$ to buy the good quality hearing aids.
 
 ## Modules to create
 1. Mobile app for hearing test
+![image](https://user-images.githubusercontent.com/241914/73419217-43fc9b00-4359-11ea-8e3f-9ef50173c584.png)
+
 2. Signal processing audion processing
     - input: frequency based amplified factor + audio input
     - output: audio output
