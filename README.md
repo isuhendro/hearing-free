@@ -37,3 +37,5 @@ Send pull request (PR) or comment / feedback as issues.
 * DSP Hardware - design & build
 https://www.intel.co.jp/content/dam/altera-www/global/ja_JP/pdfs/literature/ug/ug_dsp_design_flow.pdf
 https://www.udemy.com/course/ship-it-hardware-product-development-for-beginners/
+
+* https://www.audiology.org/sites/default/files/journal/JAAA_03_02_09.pdf
