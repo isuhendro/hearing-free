@@ -34,12 +34,11 @@ Send pull request (PR) or comment / feedback as issues.
 
 ## References
 
-* DSP Hardware - design & build
-https://www.intel.co.jp/content/dam/altera-www/global/ja_JP/pdfs/literature/ug/ug_dsp_design_flow.pdf
-https://www.udemy.com/course/ship-it-hardware-product-development-for-beginners/
+### DSP Hardware - design & build
+* https://www.intel.co.jp/content/dam/altera-www/global/ja_JP/pdfs/literature/ug/ug_dsp_design_flow.pdf
+* https://www.udemy.com/course/ship-it-hardware-product-development-for-beginners/
 
 ### Signal Processing
 * https://www.audiology.org/sites/default/files/journal/JAAA_03_02_09.pdf
 * [1998_ClinevaluofCLAIDHA_ScandAudiol.pdf](https://github.com/isuhendro/hearing-free/files/4144172/1998_ClinevaluofCLAIDHA_ScandAudiol.pdf)
-
 * https://developer.mozilla.org/en-US/docs/Web/API/BiquadFilterNode
