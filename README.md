@@ -32,5 +32,8 @@ For ears, you will need at least 4000$ to buy the good quality hearing aids.
 ## How to Contribute
 Send pull request (PR) or comment / feedback as issues. 
 
+## References
 
-
+* DSP Hardware - design & build
+https://www.intel.co.jp/content/dam/altera-www/global/ja_JP/pdfs/literature/ug/ug_dsp_design_flow.pdf
+https://www.udemy.com/course/ship-it-hardware-product-development-for-beginners/
