@@ -26,8 +26,8 @@ For ears, you will need at least 4000$ to buy the good quality hearing aids.
 4. Hearing device  
 
 ## Challenges
-1. Programming DSP is not my cup of tea. We need an electrical engineer to kickstart the original code that does the audio processing.
-2. Building hardware is not my expertise either. Possible Solution: The hardware industry could probably reuse the available software, assemble the hearing aid and within a small budget.
+1. A good hearing aid would implement a rather complex signal processing algorithme. Some are published [online](https://github.com/isuhendro/hearing-free/files/4144172/1998_ClinevaluofCLAIDHA_ScandAudiol.pdf) and as old as 20 years ago. 
+2. Building a hardware device. Mould injection technique?
 
 ## How to Contribute
 Send pull request (PR) or comment / feedback as issues. 
